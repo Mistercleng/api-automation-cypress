@@ -1,0 +1,22 @@
+{
+  "name": "api-automation-cypress",
+  "version": "1.0.0",
+  "description": "api automation fearures firebase",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mistercleng/api-automation-cypress.git"
+  },
+  "author": "Mistercleng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mistercleng/api-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/Mistercleng/api-automation-cypress#readme"
+}
