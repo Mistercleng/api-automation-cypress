@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://us-central1-barberapp-application.cloudfunctions.net/api"  
+  "baseUrl": "https://barberapp-dev-front.herokuapp.com/" ,
+  "experimentaSessionSupport": true
 }
