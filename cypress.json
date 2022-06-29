@@ -1,4 +1,5 @@
 {
-  "baseUrl": "https://barberapp-dev-front.herokuapp.com/" ,
+  "baseUrl": "https://barberapp-dev-front.herokuapp.com/",
+  "apiBaseUrl":"https://barber-app-proj.herokuapp.com/",
   "experimentaSessionSupport": true
 }
